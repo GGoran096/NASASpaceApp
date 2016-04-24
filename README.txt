@@ -1,0 +1,1 @@
+Prezentacijata se naogja vo "nasa" folderot pod ime FlyOuT_presentation
